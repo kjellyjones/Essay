@@ -1,2 +1,22 @@
-# Essay
-Jones Essay
+#### 1.	Why do you want join Ada Developers Academy? Why are you interested in programming? Tell us about your journey thus far to learn about and confirm your interest in programming.
+
+My professional and educational background is primary focused in arts and non-profit administration. I have always been interested in the arts and how art plays a pivotal role in understanding ourselves and the world we live in. 
+ 
+After graduating from school, I took a job at a non-profit in DC, however, I never felt any sort of job satisfaction. Almost two years later, I accepted a position at the Smithsonian Institution supporting their fundraising financial data. They were undergoing a huge overhaul within the fundraising and data management IT solutions and I was fortunate enough to be a key player in the project working side-by-side with the developers and project managers.  I helped develop the workflows and logic behind these new solutions.  I was excited to go to work, troubleshooting and figuring out more efficient ways to meet our goals. The more I worked with the developers, the more intrigued I was.
+
+I look back at my career path and realize that I was never brave enough to make the leap into a career path that was so foreign to me. After relocating to Seattle, I continued on with the nonprofit work, only soon to realize I needed a challenge. I want to work in a field that allows me to express my creativity and will keep me driven. I’m ready to take the leap to a challenging career.
+
+#### 2. If you are accepted into our program, where do you see your career in 5 years? How do you see yourself impacting the technology field?
+
+I always find the questions difficult to answer. There so many variables in life, which could pivot your career one way or another. I would like to think that I will be proficient in a language or two and have more than a solid programming foundation. I’ve always wanted to work for an innovative company and help work on and develop the solutions they provide to their customers.
+
+I also see myself being a community contributor where I can share my experiences and support with those of similar backgrounds and encourage them to go after their goals. I realized that just because I’m looking to get out of the nonprofit sector, doesn’t mean I can’t contribute and volunteer through them.
+
+#### 3. Read Ada's Vision, Mission and Inclusivity Statement. How will you contribute to Ada's vision for an inclusive and diverse community?
+
+As a new mother to a 5 week old son, and as a multiracial individual with a background primarily in the arts and in the nonprofit world, I believe I’ll bring a unique perspective to the ADA Academy.  With the birth of my son, I am even more driven to have a career where I can better provide for my son and instill in him the importance of always striving to learn and seek new opportunities. I believe my initiative to change my circumstances and pursue a career in programming directly aligns with the mission of ADA. I want to surround myself with individuals who are empowered to change their careers and seek new opportunities to learn and better themselves and thus be part of the movement for a more diverse and inclusive IT community. I also believe in the importance for women and diverse individuals to seek leadership roles both in and out of the workforce. I recently joined the board at the Seattle Animal Shelter Foundation, and am excited to advocate for animals and I’m excited to bring my nonprofit expertise to support their cause. 
+
+#### 4.Tell us about a time you made a mistake. What did you learn? What would you do differently?
+
+I recently created a report for a colleague where I had to pull fundraising data, which had a long list of criteria. I had previously worked with this colleague and since she has extensive experience working with the fundraising database, I took her initial report request at face value and did not go back to her to follow up with questions or concerns I had with portions of her criteria that were somewhat ambiguous. After I provided her with the report, she came back to me and said that there were a number of issues with it. I went back and reviewed her request and realized that I should not have had so many assumptions. Had I gone back to her for clarification, the report would have been accurate. I quickly resolved the issue for her, and acknowledged that it was my lack of collaboration with her that led to the inaccuracies. I’ve learned that building credibility with colleagues requires both collaboration and starting each new project with a fresh perspective without preconceived assumptions. 
+
